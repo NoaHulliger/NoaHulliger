@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NoaHulliger
-- 👀 I’m interested in chess, game theory, logic and mathematics
 - 🌱 I’m currently studying computer science at BFH (Bern University of Applied Sciences)
 
 <!---
